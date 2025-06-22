@@ -1,10 +1,10 @@
-# 🪙 Crypto Price Prediction with PyTorch
+#  Crypto Price Prediction with PyTorch
 
 A deep learning project that predicts future cryptocurrency prices using historical market data. This project leverages LSTM (Long Short-Term Memory) neural networks in PyTorch to capture temporal dependencies in time-series data.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Time-series prediction using LSTM-based deep learning model
 - Clean and normalized historical crypto data
@@ -14,7 +14,7 @@ A deep learning project that predicts future cryptocurrency prices using histori
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **PyTorch**
@@ -24,7 +24,7 @@ A deep learning project that predicts future cryptocurrency prices using histori
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ├── data/ # Historical crypto price data (e.g., CSV)
 ├── models/ # Saved PyTorch models
@@ -36,7 +36,7 @@ A deep learning project that predicts future cryptocurrency prices using histori
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. **Data Loading**: Load and preprocess historical crypto data.
 2. **Feature Scaling**: Normalize price values using MinMaxScaler.
