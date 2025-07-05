@@ -42,4 +42,4 @@ A deep learning project that predicts future cryptocurrency prices using histori
 2. **Feature Scaling**: Normalize price values using MinMaxScaler.
 3. **Sequence Creation**: Convert time-series into sequences (X, y) for LSTM.
 4. **Model Training**: Train an LSTM model using PyTorch.
-5. **Prediction & Visualization**: Predict future prices a
+5. **Prediction & Visualization**: Predict future prices and visualization through chart.
